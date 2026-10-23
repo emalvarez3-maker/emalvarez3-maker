@@ -20,10 +20,10 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-  <a href="https://github.com/emalvarez3-maker/ancla-habitos">
-    <img src="https://raw.githubusercontent.com/emalvarez3-maker/ancla-habitos/ancla/automaticidad/docs/images/dexter-logo.svg" height="110" alt="Dexter" />
+  <a href="https://github.com/emalvarez3-maker/dexter-ai">
+    <img src="https://raw.githubusercontent.com/emalvarez3-maker/dexter-ai/ancla/automaticidad/docs/images/dexter-logo.svg" height="110" alt="Dexter" />
   </a>
-  <h3><a href="https://github.com/emalvarez3-maker/ancla-habitos">Dexter</a></h3>
+  <h3><a href="https://github.com/emalvarez3-maker/dexter-ai">Dexter</a></h3>
   <p><b>Un asistente de voz para tus hábitos, tus planes y tu consciencia.</b></p>
   <p align="left">
     🦉 Un búho gótico al que le hablas con <i>"Oye Dexter"</i> desde cualquier pantalla.<br/>
@@ -31,8 +31,8 @@
     🧭 Consciencia: pausa emocional, rueda semanal y examen nocturno.<br/>
     🛠️ Más de 60 herramientas con Gemini o Claude: tareas, metas, finanzas, correo y más.
   </p>
-  <img src="https://raw.githubusercontent.com/emalvarez3-maker/ancla-habitos/ancla/automaticidad/docs/images/hoy.png" width="45%" alt="Dexter: Hoy" />
-  <img src="https://raw.githubusercontent.com/emalvarez3-maker/ancla-habitos/ancla/automaticidad/docs/images/consciencia.png" width="45%" alt="Dexter: Consciencia" />
+  <img src="https://raw.githubusercontent.com/emalvarez3-maker/dexter-ai/ancla/automaticidad/docs/images/hoy.png" width="45%" alt="Dexter: Hoy" />
+  <img src="https://raw.githubusercontent.com/emalvarez3-maker/dexter-ai/ancla/automaticidad/docs/images/consciencia.png" width="45%" alt="Dexter: Consciencia" />
 </td>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/emalvarez3-maker/don-bolon">
@@ -43,11 +43,12 @@
   <p align="left">
     📷 Foto → calorías y macros con IA; pregunta solo cuando la foto no basta.<br/>
     ⬠ Metas en un pentágono: grasa, músculo, rendimiento, salud y flexibilidad, con la fuente de cada número.<br/>
-    🍽️ Menú ecuatoriano del día que ya cuadra con tus metas.<br/>
+    🍽️ Usa la medida real de tu plato para calcular cada porción.<br/>
+    📈 Tu curva de pérdida de grasa y ayuno intermitente con base científica.<br/>
     🧠 Psicología alimentaria: hambre real vs. emocional, SOS antojo y constancia de 66 días.
   </p>
-  <img src="https://raw.githubusercontent.com/emalvarez3-maker/don-bolon/main/docs/prioridades.png" width="45%" alt="Don Bolón: prioridades" />
-  <img src="https://raw.githubusercontent.com/emalvarez3-maker/don-bolon/main/docs/coach.png" width="45%" alt="Don Bolón: coach" />
+  <img src="https://raw.githubusercontent.com/emalvarez3-maker/don-bolon/main/docs/registrar.png" width="45%" alt="Don Bolón: registrar con foto y la medida de tu plato" />
+  <img src="https://raw.githubusercontent.com/emalvarez3-maker/don-bolon/main/docs/progreso.png" width="45%" alt="Don Bolón: tu curva de pérdida de grasa" />
 </td>
 </tr>
 </table>
